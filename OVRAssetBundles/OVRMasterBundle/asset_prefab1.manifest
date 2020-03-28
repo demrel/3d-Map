@@ -1,0 +1,64 @@
+ManifestFileVersion: 0
+CRC: 4056348961
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3efc27d2c17bc717f2b1f28d5cbc6069
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 98d6c1e9481cdaa38e2006bef64d5d28
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 05ec5cf00ca181d45a42ba1870e148c3, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 143
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/walls/wall_piece_drawer_01.prefab
+- Assets/Prefabs/props/autopsy_table.prefab
+- Assets/Prefabs/props/bonesaw.prefab
+- Assets/Prefabs/props/desk_lamp.prefab
+- Assets/Prefabs/props/pencil_holder.prefab
+- Assets/Prefabs/walls/wall_piece02.prefab
+- Assets/Prefabs/props/trash_can.prefab
+- Assets/Standard Assets/Characters/FirstPersonCharacter/Prefabs/FPSController.prefab
+- Assets/Prefabs/props/steel_worktop.prefab
+- Assets/Prefabs/props/pencil.prefab
+- Assets/Prefabs/props/metal_sink.prefab
+- Assets/Prefabs/walls/wall_piece01.prefab
+- Assets/Prefabs/props/scalp.prefab
+- Assets/Prefabs/props/ceramic_sink.prefab
+- Assets/Prefabs/props/scissors.prefab
+Dependencies:
+- E:/UnityProjects/3d Map/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- E:/UnityProjects/3d Map/OVRAssetBundles/OVRMasterBundle/asset_fbx1
+- E:/UnityProjects/3d Map/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- E:/UnityProjects/3d Map/OVRAssetBundles/OVRMasterBundle/asset_wav0

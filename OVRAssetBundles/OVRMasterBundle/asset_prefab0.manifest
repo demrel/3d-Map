@@ -1,0 +1,68 @@
+ManifestFileVersion: 0
+CRC: 1694919745
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a7e5e39c14e04bd8ba69a745a634d624
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 92c85f96c98876080ba99358037da634
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/props/corpse_drawer.prefab
+- Assets/Prefabs/ceiling/floor_ceiling_8x8.prefab
+- Assets/Prefabs/props/instrument_trolley.prefab
+- Assets/Prefabs/props/brain_jar.prefab
+- Assets/Prefabs/props/shelf.prefab
+- Assets/Prefabs/props/ceiling_light.prefab
+- Assets/Prefabs/walls/doubledoor_frame01.prefab
+- Assets/Prefabs/props/desk_chair.prefab
+- Assets/Prefabs/props/photo_frame.prefab
+- Assets/characterPrefabs/Big ass.prefab
+- Assets/Prefabs/walls/wall_piece03.prefab
+- Assets/Prefabs/walls/door_01.prefab
+- Assets/Prefabs/props/organ_scale.prefab
+- Assets/Prefabs/props/cabinet.prefab
+- Assets/Prefabs/props/writing_board.prefab
+- Assets/Prefabs/props/glass_jar.prefab
+- Assets/Prefabs/walls/wall_corner02.prefab
+- Assets/Prefabs/props/notebook.prefab
+- Assets/Prefabs/floor/floor_ceiling_8x8.prefab
+- Assets/Prefabs/walls/wall_corner01.prefab
+- Assets/characterPrefabs/big fog.prefab
+- Assets/Prefabs/props/glove_dispenser.prefab
+- Assets/Prefabs/props/table.prefab
+- Assets/Prefabs/props/light_switch.prefab
+- Assets/Prefabs/decals/drain_decal.prefab
+- Assets/Prefabs/floor/floor_ceiling_4x4.prefab
+- Assets/Prefabs/props/instrument_tray.prefab
+- Assets/characterPrefabs/Big Head.prefab
+- Assets/Prefabs/walls/wall_doubledoor_piece01.prefab
+- Assets/characterPrefabs/Big Body.prefab
+Dependencies:
+- E:/UnityProjects/3d Map/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- E:/UnityProjects/3d Map/OVRAssetBundles/OVRMasterBundle/asset_fbx1
+- E:/UnityProjects/3d Map/OVRAssetBundles/OVRMasterBundle/asset_mat0

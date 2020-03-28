@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 3295176920
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2b3d2eed467e7fcfc67a2198cfc073f5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 55d48f4ad9c3b13330b9eb5ee5686477
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/MobileBloom.shader
+- Assets/Standard Assets/Effects/ImageEffects/Shaders/SSAOShader.shader
+- Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/BrightPassFilter2.shader
+- Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/LensFlareCreate.shader
+- Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/BlurAndFlares.shader
+- Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/BlendForBloom.shader
+Dependencies: []

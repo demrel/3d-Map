@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 876078032
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 80dd0f99db56c4405048fce4018d3711
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 21c99c86a43ad817b2cb7f65458ae090
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/floor/Decals/drain_mat.mat
+- Assets/Models/props/Materials/lambert1.mat
+- Assets/Models/props/Materials/desk_lamp_material.mat
+- Assets/Models/props/Materials/metal_sink.mat
+- Assets/Models/props/Materials/level_objects2_mat.mat
+- Assets/Models/props/Materials/shelf_mat.mat
+- Assets/Models/props/Materials/autopsy_table.mat
+- Assets/Models/props/Materials/corpse_drawer.mat
+- Assets/Models/props/Materials/Organs_mat.mat
+- Assets/Models/props/Materials/photo_frame_mat.mat
+- Assets/Models/props/Materials/desk_chair_mat.mat
+- Assets/Models/props/Materials/cabinet_mat.mat
+- Assets/Models/wall/Materials/doorframes_mat.mat
+- Assets/Models/wall/Materials/wall_piece_mat01.mat
+- Assets/Models/props/Materials/general_chrome.mat
+- Assets/Models/props/Materials/note_book_mat.mat
+- Assets/Models/props/Materials/Channel_lambert1_Diffuse_u1_v1.mat
+- Assets/Models/props/Materials/level_objects_mat.mat
+- Assets/Models/props/Materials/table_trash_mat.mat
+- Assets/Models/floor/Materials/lambert1.mat
+- Assets/Models/props/Materials/desk_lamp_mat.mat
+- Assets/Models/floor/Materials/ceiling_01_mat.mat
+- Assets/Models/props/Materials/glass_jar_mat.mat
+- Assets/Models/wall/Materials/door_glass.mat
+- Assets/Models/floor/Materials/floor_01_mat.mat
+Dependencies:
+- E:/UnityProjects/3d Map/OVRAssetBundles/OVRMasterBundle/asset_tga0
+- E:/UnityProjects/3d Map/OVRAssetBundles/OVRMasterBundle/asset_tga1
+- E:/UnityProjects/3d Map/OVRAssetBundles/OVRMasterBundle/asset_tga2

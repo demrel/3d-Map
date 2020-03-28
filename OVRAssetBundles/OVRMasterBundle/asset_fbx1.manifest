@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 2343013550
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7f6b8fbed5fe376ce62a2e3bedab9fce
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6e8c2164c25808527ae5bfb35b376b7c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/props/glove_dispenser.fbx
+- Assets/Models/props/light_switch.fbx
+- Assets/Models/props/photo_frame.fbx
+- Assets/Models/props/metal_sink.fbx
+- Assets/Models/wall/wall_doubledoor_piece01.fbx
+- Assets/Models/props/instrument_tray.fbx
+- Assets/Models/wall/wall_corner01.fbx
+- Assets/Models/wall/wall_corner02.fbx
+Dependencies:
+- E:/UnityProjects/3d Map/OVRAssetBundles/OVRMasterBundle/asset_mat0

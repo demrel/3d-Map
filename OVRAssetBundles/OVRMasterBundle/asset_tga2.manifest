@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1367008426
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9a0a7be3d26be6a9f02d0728e2b2a2a2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ed26e3ad9f6be9c24f85f5f5b54339d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/props/Materials/level_objects2_AO.tga
+- Assets/Models/props/Materials/photo_frame_basecolor.tga
+- Assets/Models/props/Materials/notebook_normal.tga
+- Assets/Models/wall/Materials/doorframes_basecolor.tga
+- Assets/Models/props/Materials/glass_jar_specular.tga
+Dependencies: []

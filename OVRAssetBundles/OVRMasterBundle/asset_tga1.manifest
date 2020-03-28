@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 346973090
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 29937058b6ae5f9c46b1347b388c4fc8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ed26e3ad9f6be9c24f85f5f5b54339d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/props/Materials/shelf_albedo.tga
+- Assets/Models/props/Materials/glass_jar_normal.tga
+- Assets/Models/props/Materials/organs_height.tga
+- Assets/Models/props/Materials/metal_sink_metallic.tga
+- Assets/Models/props/Materials/table_trash_normal.tga
+- Assets/Models/props/Materials/metal_sink_basecolor.tga
+- Assets/Models/props/Materials/corpse_drawers_normal.tga
+- Assets/Models/wall/Materials/wall_basecolor.tga
+- Assets/Models/props/Materials/table_trash_metallic.tga
+- Assets/Models/props/Materials/cabinet_AO.tga
+- Assets/Models/props/Materials/cabinet_albedo.tga
+- Assets/Models/wall/Materials/doorframes_normal.tga
+- Assets/Models/props/Materials/photo_frame_metallic.tga
+- Assets/Models/props/Materials/metal_sink_normal.tga
+- Assets/Models/props/Materials/corpse_drawers_basecolor.tga
+- Assets/Models/props/Materials/photo_frame_normal.tga
+- Assets/Models/props/Materials/cabinet_normal.tga
+- Assets/Models/props/Materials/desk_lamp_specularsetup.tga
+- Assets/Models/props/Materials/desk_lamp_albedo.tga
+- Assets/Models/props/Materials/level_objects_albedo.tga
+- Assets/Models/floor/Decals/ralo_metallic.tga
+- Assets/Models/props/Materials/desk_chair_metallic.tga
+- Assets/Models/props/Materials/desk_lamp_emission.tga
+- Assets/Models/wall/Materials/wall_normal.tga
+- Assets/Models/props/Materials/level_objects_emissive.tga
+- Assets/Models/props/Materials/organs_aol.tga
+- Assets/Models/floor/Decals/ralo_normal.tga
+- Assets/Models/props/Materials/corpse_drawers_metallic.tga
+- Assets/Models/props/Materials/shelf_normal.tga
+- Assets/Models/props/Materials/autopsy_table_normal.tga
+Dependencies: []

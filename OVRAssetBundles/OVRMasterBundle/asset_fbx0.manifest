@@ -1,0 +1,58 @@
+ManifestFileVersion: 0
+CRC: 3980894177
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 589b99ce42b884772ca4562954cdb587
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6e8c2164c25808527ae5bfb35b376b7c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/props/desk_lamp.fbx
+- Assets/Models/floor/floor_ceiling_8x8.fbx
+- Assets/Models/props/pencil.fbx
+- Assets/Models/props/ceramic_sink.fbx
+- Assets/Models/props/bonesaw.fbx
+- Assets/Models/props/ceiling_light.fbx
+- Assets/Models/props/glass_jar.fbx
+- Assets/Models/props/scissors.fbx
+- Assets/Models/wall/door_01.fbx
+- Assets/Models/props/shelf.fbx
+- Assets/Models/props/writing_board.fbx
+- Assets/Models/wall/wall_piece03.fbx
+- Assets/Models/props/autopsy_table.fbx
+- Assets/Models/props/table.fbx
+- Assets/Models/wall/wall_piece_drawer_01.fbx
+- Assets/Models/props/organ_scale.fbx
+- Assets/Models/props/notebook.fbx
+- Assets/Models/props/corpse_drawer.fbx
+- Assets/Models/wall/wall_piece02.fbx
+- Assets/Models/props/scalp.fbx
+- Assets/Models/floor/floor_ceiling_4x4.fbx
+- Assets/Models/props/instrument_trolley.fbx
+- Assets/Models/props/cabinet.fbx
+- Assets/Models/wall/wall_piece01.fbx
+- Assets/Models/props/brain.fbx
+- Assets/Models/props/trash_can.fbx
+- Assets/Models/props/desk_chair.fbx
+- Assets/Models/props/steel_worktop.fbx
+- Assets/Models/wall/doubledoor_frame01.fbx
+- Assets/Models/props/pencil_holder.fbx
+Dependencies:
+- E:/UnityProjects/3d Map/OVRAssetBundles/OVRMasterBundle/asset_mat0

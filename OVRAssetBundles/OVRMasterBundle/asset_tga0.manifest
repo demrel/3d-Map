@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 1173474314
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 22abfb60c45f912d02675d668b38af7e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ed26e3ad9f6be9c24f85f5f5b54339d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/props/Materials/photo_frame_ao.tga
+- Assets/Models/floor/Decals/ralo_basecolor.tga
+- Assets/Models/props/Materials/level_objects_normal.tga
+- Assets/Models/props/Materials/notebook_specular.tga
+- Assets/Models/props/Materials/desk_lamp_occlusion.tga
+- Assets/Models/props/Materials/desk_chair_occlusion.tga
+- Assets/Models/props/Materials/level_objects_metallic.tga
+- Assets/Models/props/Materials/organs_normal.tga
+- Assets/Models/floor/Materials/floor_01_metallic.tga
+- Assets/Models/floor/Materials/ceiling_01_normal.tga
+- Assets/Models/floor/Materials/ceiling_01_metallic.tga
+- Assets/Models/props/Materials/desk_chair_normals.tga
+- Assets/Models/wall/Materials/wall_metallic.tga
+- Assets/Models/props/Materials/autopsy_table_basecolor.tga
+- Assets/Models/props/Materials/autopsy_table_metallic.tga
+- Assets/Models/props/Materials/shelf_metallic.tga
+- Assets/Models/floor/Materials/floor_01_basecolor.tga
+- Assets/Models/props/Materials/cabinet_Metallic.tga
+- Assets/Models/props/Materials/level_objects2_albedo.tga
+- Assets/Models/props/Materials/desk_lamp_normals.tga
+- Assets/Models/props/Materials/level_objects2_Metallic.tga
+- Assets/Models/props/Materials/notebook_albedo.tga
+- Assets/Models/wall/Materials/doorframes_metallic.tga
+- Assets/Models/props/Materials/table_trash_albedo.tga
+- Assets/Models/props/Materials/organs_albedo.tga
+- Assets/Models/floor/Materials/floor_01_normal.tga
+- Assets/Models/floor/Materials/ceiling_01_basecolor.tga
+- Assets/Models/props/Materials/glass_jar_diffuse.tga
+- Assets/Models/props/Materials/level_objects2_normal.tga
+- Assets/Models/props/Materials/desk_chair_albedo.tga
+Dependencies: []
