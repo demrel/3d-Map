@@ -16,7 +16,6 @@ permissions and limitations under the License.
 
 using System.Collections.Generic;
 using UnityEngine;
-
 /// <summary>
 /// Allows grabbing and throwing of objects with the OVRGrabbable component on them.
 /// </summary>
@@ -73,7 +72,7 @@ public class OVRGrabber : MonoBehaviour
     protected Quaternion m_grabbedObjectRotOff;
 	protected Dictionary<OVRGrabbable, int> m_grabCandidates = new Dictionary<OVRGrabbable, int>();
 	protected bool m_operatingWithoutOVRCameraRig = true;
-
+   
     /// <summary>
     /// The currently grabbed object.
     /// </summary>
@@ -188,40 +187,40 @@ public class OVRGrabber : MonoBehaviour
         }
     }
 
-    void OnTriggerEnter(Collider otherCollider)
-    {
-        // Get the grab trigger
-		OVRGrabbable grabbable = otherCollider.GetComponent<OVRGrabbable>() ?? otherCollider.GetComponentInParent<OVRGrabbable>();
-        if (grabbable == null) return;
+  //  void OnTriggerEnter(Collider otherCollider)
+  //  {
+  //      // Get the grab trigger
+		//OVRGrabbable grabbable = otherCollider.GetComponent<OVRGrabbable>() ?? otherCollider.GetComponentInParent<OVRGrabbable>();
+  //      if (grabbable == null) return;
 
-        // Add the grabbable
-        int refCount = 0;
-        m_grabCandidates.TryGetValue(grabbable, out refCount);
-        m_grabCandidates[grabbable] = refCount + 1;
-    }
+  //      // Add the grabbable
+  //      int refCount = 0;
+  //      m_grabCandidates.TryGetValue(grabbable, out refCount);
+  //      m_grabCandidates[grabbable] = refCount + 1;
+  //  }
 
-    void OnTriggerExit(Collider otherCollider)
-    {
-		OVRGrabbable grabbable = otherCollider.GetComponent<OVRGrabbable>() ?? otherCollider.GetComponentInParent<OVRGrabbable>();
-        if (grabbable == null) return;
+  //  void OnTriggerExit(Collider otherCollider)
+  //  {
+		//OVRGrabbable grabbable = otherCollider.GetComponent<OVRGrabbable>() ?? otherCollider.GetComponentInParent<OVRGrabbable>();
+  //      if (grabbable == null) return;
 
-        // Remove the grabbable
-        int refCount = 0;
-        bool found = m_grabCandidates.TryGetValue(grabbable, out refCount);
-        if (!found)
-        {
-            return;
-        }
+  //      // Remove the grabbable
+  //      int refCount = 0;
+  //      bool found = m_grabCandidates.TryGetValue(grabbable, out refCount);
+  //      if (!found)
+  //      {
+  //          return;
+  //      }
 
-        if (refCount > 1)
-        {
-            m_grabCandidates[grabbable] = refCount - 1;
-        }
-        else
-        {
-            m_grabCandidates.Remove(grabbable);
-        }
-    }
+  //      if (refCount > 1)
+  //      {
+  //          m_grabCandidates[grabbable] = refCount - 1;
+  //      }
+  //      else
+  //      {
+  //          m_grabCandidates.Remove(grabbable);
+  //      }
+  //  }
 
     protected void CheckForGrabOrRelease(float prevFlex)
     {
@@ -234,7 +233,7 @@ public class OVRGrabber : MonoBehaviour
             GrabEnd();
         }
     }
-
+    
     protected virtual void GrabBegin()
     {
         float closestMagSq = float.MaxValue;

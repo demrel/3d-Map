@@ -11,10 +11,10 @@ public class HandController : MonoBehaviour
     // Start is called before the first frame update
     private void Start()
     {
-        if (PV.IsMine)
-        {
-            transform.GetChild(0).GetComponent<OVRGrabber>().enabled=true;
-        }
+        //if (PV.IsMine)
+        //{
+        //    transform.GetChild(0).GetComponent<OVRGrabber>().enabled=true;
+        //}
         //else
         //{
         //    transform.GetChild(0).GetComponent<OVRGrabber>().enabled = false;
